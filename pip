@@ -1,0 +1,4 @@
+[global] 
+timeout = 60 
+index-url = https://pypi.douban.com/simple 
+trusted-host = https://pypi.douban.com
